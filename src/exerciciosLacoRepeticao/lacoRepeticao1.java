@@ -1,4 +1,4 @@
-package exerciciosLacoRepeticao;
+package exlacosrepeticao;
 
 import java.util.Scanner;
 
